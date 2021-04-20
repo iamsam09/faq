@@ -1,5 +1,5 @@
 --- 
-title: "FREQUENTLY ASKED QUESTION"
+title: "FREQUENTLY ASKED QUESTIONS - KPKNLYK"
 author: "My Name"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
