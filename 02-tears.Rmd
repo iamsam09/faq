@@ -1,16 +1,342 @@
-# Pertanyaan Pertama?
+# Lelang
+*laman ini dikutip dari https://lelang.go.id/page/faq*  
 
-Test 123. Type 'demo()' for some demos, 'help()' for on-line help, or
-'help.start()' for an HTML browser interface to help.
-Type 'q()' to quit R.
-- [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the [latest version](https://CRAN.R-project.org/package=bookdown).
 
-- [ ] 2. Render locally with `bookdown::render_book("index.Rmd")`.
 
-- [ ] 3. Use `browseURL("docs/index.html")` to view your book locally (or just open `index.html` in a browser).
+## Objek Lelang
 
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
 
-(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
+### Apakah objek lelang dapat dikirimkan ke pemenang lelang?
 
-This is a question
+Saat ini belum ada fasilitas pada KPKNL untuk pengiriman objek lelang, pemenang lelang harus mengambil sendiri dan berkoordinasi dengan penjual.
+
+
+### Bagaimana cara melihat objek lelang?
+
+Mengubungi penjual untuk melihat secara fisik (real) di lapangan mengenai objek lelang atau melihat pengumuman lelang.
+
+
+### Bagaimana cara mengambil objek lelang yang sudah saya menangkan?
+
+Caranya adalah sebagai berikut:
+
+1.	Mendatangi KPKNL untuk meminta kuitansi pelunasan dan kutipan risalah lelang;  
+2.	Mendatangi penjual dengan membawa kuitansi pelunasan dan kutipan risalah lelang.  
+
+
+### Bagaimana jika deskripsi objek pada pengumuman lelang beda dengan kutipan risalah lelang?
+
+Ketentuan untuk deskripsi objek yang disampaikan pada pengumuman lelang berbeda dengan kutipan risalah lelang berbeda, sehingga pemenang merasa dirugikan adalah sebagai berikut:
+
+1.	Objek lelang dijual dalam kondisi apa adanya, sehingga peserta wajib meneliti objek lelang dan menginformasikan adanya perbedaan sebelum mengajukan penawaran lelang, peserta lelang dianggap telah mengetahui secara penuh kondisi objek lelang pada saat mengajukan penawaran. Jika merasa dirugikan dapat menempuh upaya hukum sesuai dengan ketentuan peraturan perundangan yang berlaku;  
+2.	Jika perbedaan terjadi karena kesalahan redaksional, maka dapat mengajukan surat permohonan perbaikan kutipan risalah lelang kepada Kepala KPKNL penyelenggara lelang.
+
+
+### Bagaimana mencari objek lelang yang diminati berdasarkan lokasi objek lelang di e-Auction?
+
+1.	Buka website lelang online dengan alamat [www.lelang.go.id](www.lelang.go.id).
+2.	Pilih Kantor Wilayah dan KPKNL penyelenggara lelang.
+3.	Masukkan lokasi yang diinginkan pada pencarian menggunakan kata kunci.
+
+
+### Bagaimana mengosongkan objek lelang yang telah dibeli, jika kondisinya masih berpenghuni?
+
+Pengosongan dapat dilakukan dengan mengajukan permohonan pengosongan kepada Pengadilan setelah memperoleh Grosse Risalah Lelang.
+
+
+### Jika objek lelang berupa tanah dan/atau bangunan bagaimana cara balik nama nya?
+
+Setelah mendapatkan Kutipan Risalah Lelang dan Kuitansi Pelunasan Harga Lelang, dapat langsung menggunakan balik nama ke Kantor Pertanahan dan melampirkan:
+
+
+1.	Asli sertifikat bukti kepemilikan.  
+2.	Asli Kutipan Risalah Lelang  
+3.	Kuitansi Pelunasan Harga Lelang.  
+4.	Bukti Penyetoran PPh atas Tanah dan Bangunan.  
+5.	Bukti Penyetoran BPHTB.  
+
+
+### Jika objek lelang kendaraan, tanpa BPKB dan/atau STNK bagaimana cara balik nama?
+
+Setelah mendapatkan Kutipan Risalah Lelang dan Kuitansi Pelunasan Harga Lelang, dapat langsung mengajukan pendaftaran Regident Ranmor hasil lelang pada wilayah Regident Ranmor sesuai alamat pemenang lelang.
+
+
+### Apa saja obyek lelang yang dilelang di portal [lelang.go.id](www.lelang.go.id)?
+
+Obyek yang dilelang melalui [lelang.go.id](www.lelang.go.id) dapat berupa barang berwujud seperti : tanah dan/atau bangunan, kendaraan, bongkaran, scrapt, inventaris, dan lain-lain serta barang tidak berwujud berupa hak atas menikmati barang (hak sewa).
+
+
+### Sampai kapan batas tayang obyek lelang pada portal lelang.go.id?
+
+Lot (objek) lelang ditayangkan pada portal lelang.go.id sampai dengan jam pelaksanaan lelang lot (objek) tersebut.
+
+
+### Apakah barang yang dilelang sama dengan foto yang ditayangkan pada portal lelang.go.id?
+
+Barang dijual melalui lelang secara as is (apa adanya). Foto yang tayang pada portal lelang.go.id merepresentasikan obyek lelang dan merupakan tanggung jawab Penjual. Apabila ingin melihat obyek lelang secara langsung dapat menghubungi pihak Penjual.
+
+
+
+
+## Pengajuan Lelang
+
+
+### Apa faktor penyebab lelang dibatalkan?
+
+Lelang dibatalkan karena hal-hal sebagai berikut:  
+1.	Permintaan penjual;  
+2.	Penetapan atau putusan dari lembaga peradilan; atau  
+3.	Pembatalan oleh Pejabat Lelang sesuai dengan Pasal 39 Peraturan Menteri Keuangan Nomor 213/PMK.06/2020 tentang Petunjuk Pelaksanaan Lelang.  
+
+
+### Bagaimana cara mengajukan permohonan lelang?
+
+Saat ini pengajuan permohonan lelang dilakukan secara online. Cara untuk mengajukan permohonan lelang dapat dilihat melalui [tautan](https://drive.google.com/file/d/1-vUWDlfl1ku5aiZ425UOIP9MXKZS4kTc/view) ini.
+
+
+
+### Bagaimana jika KPKNL telat mengunggah pengumuman lelang di e-Auction?
+
+Jika KPKNL telat mengunggah pengumuman lelang di e-Auction, lelang tetap sah, karena ada pengumuman resmi. Akan ada mekanisme monitoring dan evaluasi sesuai ketentuan.
+
+
+
+### Berapa lama lelang yang diajukan diupload di website lelang DJKN?
+
+Lelang akan diunggah di website http://www.lelang.go.id/ dengan ketentuan:  
+
+  1. Untuk lelang dengan satu kali pengumuman lelang, upload data akan dilakukan paling lambat tiga hari setelah pengumuman lelang tersebut;  
+  2. Untuk lelang dengan dua kali pengumuman lelang, upload data dilakukan paling lambat lima hari setelah pengumuman lelang tersebut;  
+  3. Untuk lelang ulang, upload data dilakukan paling lambat tiga hari setelah pengumuman lelang ulang terbit.  
+
+
+
+### Objek lelang beda wilayah dengan lokasi penjual lelang, KPKNL penyelenggara dipilih yang mana?
+
+1.	Jika objek lelang hanya ada di satu lokasi maka Anda dapat mengajukan permohonan lelang di KPKNL yang berwenang terhadap objek lelang;
+2.	Apabila objek lelang lebih dari satu dan berada di berbagai lokasi maka   dapat dilakukan ke masing-masing KPKNL.
+
+
+
+## Uang Jaminan Lelang
+
+
+### Apa yang dimaksud Nilai Limit dan Uang Jaminan Penawaran Lelang? 
+
+Nilai limit adalah harga minimal barang yang akan dilelang dan ditetapkan oleh Penjual. Uang Jaminan Penawaran Lelang adalah sejumlah uang yang disetor kepada bendahara penerimaan KPKNL atau balai lelang atau Pejabat Lelang oleh calon peserta lelang sebelum pelaksanaan lelang sebagai syarat menjadi peserta lelang.
+
+
+### Siapa yang menetapkan besaran Nilai Limit dan Uang Jaminan Penawaran Lelang?  
+
+Nilai Limit dan Uang Jaminan Penawaran Lelang ditetapkan oleh Penjual dan menjadi tanggung jawab Penjual.
+
+
+### Bagaimana cara menyetor uang jaminan lelang?  
+
+1. Setelah Anda mendapatkan nomor Virtual Account, transfer dengan nominal yang sesuai dengan email yang diterima peserta lelang (tidak boleh disetor berangsur), atau;  
+2. Sign in ke akun [Lelang.go.id](www.lelang.go.id), kemudian klik Lelang Saya , klik Detail, dan pilih Lihat Petunjuk Pembayaran.
+
+
+### Kapan batas akhir penyetoran Uang Jaminan Penawaran Lelang?  
+
+
+1. Untuk uang jaminan penawaran lelang dengan jumlah paling banyak Rp20.000.000,00 (dua puluh juta rupiah) dapat disetorkan langsung ke bendahara penerimaan KPKNL, Pejabat Lelang Kelas I, Balai Lelang atau Pejabat Lelang Kelas II paling lambat diterima sebelum lelang dimulai.  
+2. Dalam hal uang jaminan penawaran lelang di atas Rp20.000.000,00 (dua puluh juta rupiah) harus disetorkan melalui rekening bendahara penerimaan KPKNL, rekening Balai Lelang atau rekening khusus atas nama Pejabat Lelang Kelas II paling lambat 1 (satu) hari kerja sebelum pelaksanaan lelang harus sudah efektif diterima pada rekening tersebut.  
+3. Untuk uang jaminan penawaran lelang yang disetor melalui rekening (Virtual Account) paling lambat 1 (satu) hari sebelum pelaksanaan lelang harus sudah efektif diterima di rekening bendahara penerimaan KPKNL.  
+4. Untuk lelang barang yang mudah busuk/rusak/kedaluwarsa seperti ikan hasil tindak pidana perikanan, harus sudah efektif pada rekening bendahara penerimaan KPKNL paling lambat 1 (satu) jam sebelum pelaksanaan lelang. Perlu untuk diperhatikan adalah adanya End of Day (EoD) masing-masing bank rekening penampungan KPKNL, sehingga dihimbau agar menghindari penyetoran uang jaminan penawaran lelang mendekati End of Day (EoD).
+
+
+### Langkah apa yang perlu dilakukan jika terjadi kesalahan penyetoran Uang Jaminan Penawaran Lelang melalui Virtual Account (VA) misalnya besar uang jaminan yang disetor tidak sesuai atau tertukar VA lot lelang lainnya?  
+
+Jika mengalami kesalahan tersebut agar langsung menghubungi KPKNL penyelenggara lelang. Untuk proses pengembalian uang jaminan penawaran lelang, peserta akan diminta dokumen pendukung berupa surat permintaan pengembalian uang jaminan penawaran lelang yang dilengkapi fotokopi identitas dan asli bukti setor.  
+
+
+### Apakah Uang Jaminan Penawaran Lelang akan dikembalikan secara utuh jika kalah lelang?  
+
+Uang jaminan penawaran lelang peserta lelang yang tidak disahkan sebagai Pembeli, akan dikembalikan seluruhnya kepada peserta lelang, kecuali terdapat biaya transaksi yang dikenakan oleh Perbankan, dan biaya transaksi tersebut menjadi tanggungan peserta lelang.  
+
+
+### Apabila lelang dibatalkan, pengembalian uang jaminan lelang berapa lama?
+
+Pengembalian uang jaminan penawaran lelang paling lambat 1 (satu) hari kerja sejak permintaan pengembalian dari peserta lelang diterima.
+
+
+### Apabila pengembalian uang jaminan lebih dari waktu yang ditentukan, apa yang harus saya lakukan?  
+
+Segera hubungi KPKNL tempat Anda mengikuti lelang atau Call Center DJKN 150 991. Khusus untuk lelang yang dilakukan oleh KPKNL Yogyakarta, Anda dapat menelpon nomor 0274-544091 atau mengirim Whatsapp ke nomor [0852 9317 8579](https://api.whatsapp.com/send?phone=6285293178579).
+
+
+### Bagaimana pengembalian uang jaminan lelang yang disetor berangsur?  
+
+Pengembalian uang jaminan penawaran lelang paling lambat 1 (satu) hari kerja sejak permintaan pengembalian dari peserta lelang diterima.
+
+
+### Berapa lama pengembalian uang jaminan lelang?  
+
+Pengembalian Uang Jaminan lelang lelang.go.id dilakukan: 
+    1. Maksimal 1 (satu) hari kerja jika bank peserta lelang sama dengan bank persepsi KPKNL;  
+    2. Maksimal 3 (tiga) hari kerja jika bank peserta lelang beda dengan bank persepsi KPKNL.
+
+
+### Apakah peserta lelang akan mendapat Virtual Account (VA) untuk semua bank sesuai daftar nomor rekening yang didaftarkan untuk pengembalian uang jaminan?  
+Sebelum melakukan penawaran, calon peserta lelang akan mendapatkan nomor Virtual Account (VA) sesuai bank penampungan uang jaminan masing-masing KPKNL penyelenggara lelang. Sedangkan untuk peserta lelang yang tidak disahkan sebagai Pembeli, uang jaminan penawaran lelang akan dikembalikan ke nomor rekening yang telah dipilih oleh peserta lelang untuk pengembalian saat akan mengikuti lelang.  
+
+
+
+## Status Keikutsertaan
+
+
+### Apakah boleh saya ikut lelang kehadiran, tetapi atas nama orang lain?  
+
+Boleh, dengan membuat surat kuasa notaril atau surat kuasa bermaterai yang dilampirkan dengan fotokopi KTP/SIM/Paspor pemberi dan penerima kuasa dan menunjukkan yang aslinya pada saat lelang tersebut.  
+
+
+### Bagaimana cara mengikuti lelang sebagai badan hukum?
+
+Cara mengikuti lelang sebagai badan hukum adalah sebagai berikut:  
+
+1. Badan Hukum memberi kuasa notariil ke 1 orang;  
+2. Kuasa dari badan hukum tadi, mendaftar akun lelang.go.id dengan NPWP, KTP dan Nomor Rekening Pribadi;  
+3. Setelah akun tervalidasi, Ikuti Lelang yang diinginkan;  
+4. Setelah klik "Ikut Lelang", akan ada form Konfimasi Mengikuti Lelang;
+Pilih kolom "Saya mengikuti lelang ini atas kuasa dari badan hukum (sebutkan di bawah)."; 
+5. Lengkapi data persyaratan  
+    a. Nama badan hukum : diisi dengan nama badan hukum pemberi kuasa;  
+    b. Upload file pesyaratan seperti: Surat kuasa asli, AD/ART Perusahaan (digabung menjadi 1 file , tidak lebih dari 1 MB, Tipe file yang diizinkan: .JPG, .JPEG, .PNG, .ZIP dan .PDF)
+
+
+
+
+## Penawaran Lelang
+
+
+### Bagaimana cara mengikuti lelang?
+
+1.  Untuk bisa mengikuti lelang di http://www.lelang.go.id/, Anda harus memiliki akun terlebih dahulu. Simak video berikut ini untuk mengetahui cara mendaftarkan akun Anda.  
+
+[![TUTORIAL PENDAFTARAN LELANG](http://img.youtube.com/vi/sDVkZtN5dP8/0.jpg)](http://www.youtube.com/watch?v=sDVkZtN5dP8 "Tutorial Pendaftaran Lelang")
+
+
+2. Setelah berhasil membuat akun di, sign in ke akun www.lelang.go.id Anda.  
+3. Klik objek lelang yang ingin Anda beli, Klik Ikut Lelang.  
+4. Centang status keikutsertaan Anda "Saya mengikuti lelang ini untuk diri saya sendiri" atau "Saya mengikuti lelang ini atas kuasa dari badan hukum" dan lengkapi dokumen sesuai yang disyaratkan dalam pengumuman lelang.  
+5. Centang pernyataan "Saya berkehendak untuk mengikuti lelang serta telah membaca dan menyetujui Syarat dan Ketentuan lelang ini".  
+6. Klik Ikut Lelang Ini.  
+7. Setor uang jaminan lelang sesuai jumlah yang sudah ditentukan.  
+8. Klik Lihat Petunjuk Pembayaran untuk mengetahui informasi detail terkait cara pembayaran.  
+9. Pegawai KPKNL akan memverifikasi atas penyetoran uang jaminan lelang tersebut terlebih dahulu agar Anda dapat mengajukan penawaran lelang.  
+
+
+
+### Apa itu penawaran *Closed Bidding*? Bagaimana cara melakukan penawarannya?  
+
+Penawaran *Closed Bidding* adalah:  
+
+1.	Peserta mulai diperbolehkan menawar setelah uang jaminan diverifikasi pejabat lelang.  
+2.	Nilai penawaran tertinggi tidak terlihat, semua peserta dapat mengetahuinya setelah lelang berakhir.  
+3.	Penawaran ditutup setelah kepala Risalah Lelang diunggah.
+
+ 
+Cara Penawarannya:  
+1.	Sign in ke akun E-Auction Anda.  
+2.	Klik Lelang saya, kemudian klik status lelang.  
+3.	Klik pada lelang yang sedang Anda ikuti  
+4.	Lakukan penawaran beberapa kali sampai waktu lelang habis.
+
+
+### Apa itu penawaran *Open Bidding*? Bagaimana cara melakukan penawarannya?
+
+Penawaran *Open Bidding* adalah:  
+1.	Peserta mulai diperbolehkan menawar pada tanggal dan jam yang telah ditentukan setelah kepala Risalah Lelang diunggah.  
+2.	Nilai penawaran tertinggi akan terlihat, semua peserta dapat mengetahui secara real-time  
+ 
+Cara Penawarannya:  
+1.	Sign in ke akun E-Auction Anda.  
+2.	Klik Lelang saya , kemudian klik status lelang.  
+3.	Klik pada lelang yang sedang Anda ikuti.  
+4.	Lakukan penawaran berulang kali sampai waktu lelang habis.  
+
+
+### Apa sanksi jika sudah menyetor uang jaminan lelang tetapi tidak mengajukan penawaran?
+
+Tidak ada, uang jaminan lelang akan dikembalikan setelah pelaksanaan lelang berakhir.
+
+
+### Apa sanksi jika sudah menyetor uang jaminan lelang tidak hadir ditempat lelang?
+
+Tidak ada, uang jaminan lelang akan dikembalikan setelah pelaksanaan lelang berakhir.
+
+
+### Bagaimana penentuan pemenang lelang jika ada 2 (dua) atau lebih penawaran yang sama dan tertinggi pada lelang *closed bidding*?
+
+Dalam hal terdapat Peserta Lelang yang mengajukan penawaran tertinggi yang sama, Pejabat Lelang mengesahkan Peserta Lelang yang penawarannya diterima lebih dulu sebagai Pembeli.
+
+
+
+## Pemenang dan Pelunasan Lelang
+
+
+
+### Apa prosedur yang harus saya lakukan ketika sudah melakukan pelunasan lelang?
+
+Mendatangi KPKNL tempat Anda mengikuti lelang untuk meminta penerbitan asli kuitansi dan kutipan risalah lelang dengan membawa:  
+
+1.	Bukti pelunasan harga lelang.  
+2.	Bukti pembayaran Bea Perolehan Hak Tanah dan Bangunan (BPHTB) yang dibayarkan ke Badan Keuangan dan Aset Daerah (BKAD)  setempat jika objek lelang yang Anda menangkan berupa Tanah dan/atau Bangunan.  
+3.	Fotocopy KTP.  
+4.	Materai Rp10.000,00 sebanyak 2 (dua) lembar (masing-masing satu lembar untuk kuitansi dan Kutipan Risalah Lelang).  
+
+Selain datang langsung, saat ini untuk penerbitan kuitansi lelang dan kutipan risalah lelalng, Anda juga dapat menggunakan layanan digital KPKNL Yogyakarta melalui tautan [ini](https://linktr.ee/layanan.lelang).
+
+
+### Bagaimana cara melakukan pelunasan lelang setelah ditetapkan sebagai pemenang?
+
+Cara Pertama:  
+1.	Cek email yang dikirimkan sistem lelang ke alamat email Anda.  
+2.	Ikuti petunjuk pelunasan  yang telah dilampirkan.
+ 
+Cara Kedua:  
+1.	Sign in ke akun E-Auction Anda.  
+2.	Klik Lelang saya , kemudian klik status lelang.  
+3.	Klik Detail pada objek lelang yang Anda ikuti.  
+4.	Ikuti petunjuk pelunasan  yang ada.
+
+
+### Bagaimana jika saya sudah melakukan pelunasan, tetapi tidak mendapatkan notifikasi lunas ?
+
+Segera hubungi KPKNL penyelenggara lelang sekaligus mengurus asli kuitansi dan Kutipan Risalah Lelang.
+
+
+### Berapa lama penetapan pemenang lelang?
+
+Penetapan pemenang lelang maksimal 1(satu) jam setelah lelang berakhir.
+
+
+### Biaya apa saja yang harus dibayarkan saat menjadi pemenang lelang ?
+
+Biaya yang harus dibayarkan adalah sebagai berikut:  
+
+ 1.	Bea Lelang pembeli maksimal 3% (tarif berbeda-beda sesuai Peraturan Pemerintah Nomor 3 tahun 2018 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Keuangan sebagaimana diubah dengan Pemerintah Nomor 62 tahun 2020).  
+ 2.	Bea Perolehan Hak Tanah dan Bangunan (BPHTB) yang dibayarkan ke Badan Keuangan dan Aset Daerah (BKAD)  setempat (untuk objek lelang berupa tanah dan/atau bangunan); dan  
+ 3.	Bea Materai.
+
+
+### Saya akan melakukan pelunasan lelang, tetapi dana nya dari rekening yang berbeda, diperbolehkan?
+
+Boleh, dengan ketentuan sebagai berikut:  
+
+1.	Pembayaran sesuai dengan kode Virtual Account (VA) pemenang lelang.  
+2.	Tidak melebihi batas waktu pelunasan (5 hari kerja sejak hari lelang).  
+3.	Melakukan konfirmasi terlebih dahulu ke KPKNL penyelenggara lelang.
+
+
+
+## Risalah Lelang
+
+
+
+### Apabila kutipan risalah lelang saya hilang, apakah saya boleh meminta lagi?
+
+Boleh, dengan mengajukan surat permohonan penerbitan kutipan risalah lelang pengganti karena hilang kepada Kepala KPKNL penyelenggara lelang. Untuk mendapatkan kutipan Risalah Lelang pengganti, Anda diwajibkan menyetor biaya (Penerimaan Negara Bukan Pajak) sebesar Rp500.000,00.
+
+
