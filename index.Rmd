@@ -1,24 +1,18 @@
 --- 
 title: "FREQUENTLY ASKED QUESTIONS"
-author: "Kantor Pelayanan Kekayaan Negara dan Lelang (KPKNL) Yogyakarta"
+author: "NN"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
 
 
-# Pendahuluan {-}
+# Preface {-}
 
 
-Dokumen ini merupakan kumpulan pertanyaan yang sering diajukan oleh pengguna layanan KPKNL Yogyakarta. Gunakan fitur pencarian untuk mencari topik yang ingin
-Anda ketahui.
-
-Apabila ada topik yang menurut Anda perlu ditambahkan dalam dokumen FAQ ini, silahkan ajukan topik/pertanyaan Anda melalui [formulir ini](https://docs.google.com/forms/d/e/1FAIpQLSfzIOS_KvU5qd14gNJIMdC-rnJ3ydb8_opKMTsHHFPdUXyJ5g/viewform).
-
-Terima kasih.
 
 
-# Pengelolaan Barang Milik Negara (BMN)
+# Title
 
 ```{r,fig.cap = "This is a caption", echo=FALSE}
 library(knitr)
